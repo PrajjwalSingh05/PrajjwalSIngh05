@@ -1,8 +1,12 @@
+#thi Train Your Model -Website
+### A Website that is used to train your machine learning model,provide graphic user interface to User
+### In this project, I start by preprocessing the data by cleaning, transforming, and normalizing it. Then, I add a feature selection step to identify the most relevant features for the machine learning model. Next, I choose a machine learning algorithm based on the nature of the problem and the available data. Finally, I use hyperparameter tuning techniques, such as grid search or randomized search, to optimize the model's performance by selecting the best combination of hyperparameters
+
 <h1 align="center">Hi 👋, I'm Prajjwal singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://komarev.com/ghpvc/?username=prajjwalsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsingh05" >
+<img align="right" width="400"   src="">
 #thi Train Your Model -Website
-<p align="left">  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsingh05" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
