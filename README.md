@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prajjwal singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsingh05" /> </p>
+<img align="right" width="400" src="https://komarev.com/ghpvc/?username=prajjwalsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsingh05" >
+#thi Train Your Model -Website
+<p align="left">  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
